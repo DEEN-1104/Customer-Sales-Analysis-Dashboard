@@ -22,6 +22,16 @@ The dashboard provides insights into sales trends, customer behavior, product pe
 - Sales Trends
 - Profitability Analysis
 
+## Key Insights
+
+- Total sales reached approximately ₹2.30M.
+- Profit margin was approximately 12.47%.
+- Return rate was approximately 5.91%.
+- Technology, Office Supplies, and Furniture were analyzed by category.
+- Sales performance was compared across different U.S. states and customer segments.
+- Top-performing products were identified based on sales.
+- Sales trends were analyzed over time.
+
 ## Dashboard
 
 The dashboard allows users to interact with the data using filters and visualizations to identify important sales and customer trends.
