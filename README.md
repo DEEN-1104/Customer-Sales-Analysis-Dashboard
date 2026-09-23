@@ -26,6 +26,10 @@ The dashboard provides insights into sales trends, customer behavior, product pe
 
 The dashboard allows users to interact with the data using filters and visualizations to identify important sales and customer trends.
 
+## Dashboard Preview
+
+![Customer & Sales Analysis Dashboard](dashboard.png)
+
 ## Project File
 
 The Tableau packaged workbook (`.twbx`) is included in this repository.
